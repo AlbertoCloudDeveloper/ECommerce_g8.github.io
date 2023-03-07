@@ -1,0 +1,3 @@
+En VS code hacer clic en Terminal y agregar una nueva terminal
+Navegar a la carpeta donde desean guardar el proyecto
+Usar el comando: git clone --branch main https://gitlab.com/equip8/e-commerce1.git
